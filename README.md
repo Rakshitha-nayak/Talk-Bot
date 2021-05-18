@@ -1,5 +1,5 @@
 # Talk-Bot
-Talk-Bot is a voice assistant in python using speech recognition and pyttsx3 packages.
+Talk-Bot is a voice assistant in python using speech recognition and pyttsx3 packages. For this program you will need a working microphone.
 -It can tell you the current date and time.
 -It can send emails on your behalf.
 -It can play music for you.
