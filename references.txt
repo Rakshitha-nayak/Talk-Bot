@@ -1,0 +1,4 @@
+References used for developing Talk-Bot
+- https://www.codewithharry.com/videos/python-tutorials-for-absolute-beginners-120
+- https://github.com/Dipeshpal/Jarvis-Assisant
+- https://pythonspot.com/personal-assistant-jarvis-in-python/
